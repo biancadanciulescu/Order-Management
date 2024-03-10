@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b5d099c-accf-4bc9-80fc-4cf30957bb7e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/85085cf3-f667-4d0a-92ba-b5529e97a5e7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/85085cf3-f667-4d0a-92ba-b5529e97a5e7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BusinessLogic/ClientBLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/ClientBLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BusinessLogic/OrderBLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/OrderBLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BusinessLogic/ProductBLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/ProductBLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Connection/ConnectionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Connection/ConnectionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataAccess/AbstractDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataAccess/AbstractDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataAccess/ClientDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataAccess/ClientDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataAccess/OrderDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataAccess/OrderDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataAccess/ProductDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataAccess/ProductDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Bill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Clients.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Clients.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Orders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Products.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Products.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/AddClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/AddClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/AddProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/AddProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ClientView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ClientView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/DeleteClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/DeleteClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/DeleteProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/DeleteProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/JTableClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/JTableClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/JTableProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/JTableProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/OrderView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/OrderView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ProductView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ProductView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/UpdateClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/UpdateClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/UpdateProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/UpdateProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BusinessLogic/ClientBLL$AddClientListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BusinessLogic/ClientBLL$AddClientListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BusinessLogic/ClientBLL$BackListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BusinessLogic/ClientBLL$BackListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BusinessLogic/ClientBLL$DeleteClientListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BusinessLogic/ClientBLL$DeleteClientListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BusinessLogic/ClientBLL$UpdateClientListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BusinessLogic/ClientBLL$UpdateClientListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BusinessLogic/ClientBLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BusinessLogic/ClientBLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BusinessLogic/OrderBLL$AddOrderViewListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BusinessLogic/OrderBLL$AddOrderViewListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BusinessLogic/OrderBLL$BackListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BusinessLogic/OrderBLL$BackListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BusinessLogic/OrderBLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BusinessLogic/OrderBLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BusinessLogic/ProductBLL$AddProductListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BusinessLogic/ProductBLL$AddProductListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BusinessLogic/ProductBLL$BackListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BusinessLogic/ProductBLL$BackListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BusinessLogic/ProductBLL$DeleteProductListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BusinessLogic/ProductBLL$DeleteProductListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BusinessLogic/ProductBLL$UpdateProductListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BusinessLogic/ProductBLL$UpdateProductListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BusinessLogic/ProductBLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BusinessLogic/ProductBLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Connection/ConnectionFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Connection/ConnectionFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DataAccess/AbstractDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DataAccess/AbstractDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DataAccess/ClientDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DataAccess/ClientDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DataAccess/OrderDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DataAccess/OrderDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DataAccess/ProductDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DataAccess/ProductDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Model/Bill.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Model/Bill.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Model/Clients.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Model/Clients.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Model/Orders.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Model/Orders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Model/Products.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Model/Products.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/AddClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/AddClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/AddProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/AddProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ClientView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ClientView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/Controller$BackListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/Controller$BackListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/Controller$ButtonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/Controller$ButtonListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/Controller$Listener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/Controller$Listener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/DeleteClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/DeleteClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/DeleteProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/DeleteProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/JTableClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/JTableClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/JTableProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/JTableProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/OrderView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/OrderView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ProductView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ProductView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/UpdateClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/UpdateClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/UpdateProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/UpdateProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/View.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Record" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PjqRrjjurCHkWgaf97l8nuyMJY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PT2023_30223_Danciulescu_BiancaAndreea_Assignment_3/Assignment3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b5d099c-accf-4bc9-80fc-4cf30957bb7e" name="Changes" comment="" />
+      <created>1683980834099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683980834099</updated>
+      <workItem from="1683980835260" duration="373000" />
+      <workItem from="1683981217458" duration="4000" />
+      <workItem from="1683981226618" duration="31000" />
+      <workItem from="1683981324658" duration="10565000" />
+      <workItem from="1684069653500" duration="6000" />
+      <workItem from="1684069749259" duration="1981000" />
+      <workItem from="1684076773969" duration="1227000" />
+      <workItem from="1684156198992" duration="305000" />
+      <workItem from="1684159144057" duration="1871000" />
+      <workItem from="1684339607322" duration="3628000" />
+      <workItem from="1684433090062" duration="601000" />
+      <workItem from="1684445220950" duration="2315000" />
+      <workItem from="1684484789084" duration="24351000" />
+      <workItem from="1684567551305" duration="35036000" />
+      <workItem from="1685014426265" duration="13605000" />
+      <workItem from="1685081339474" duration="248000" />
+      <workItem from="1685084602585" duration="741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Assignment3$Main.ic" NAME="Main Coverage Results" MODIFIED="1684581431943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
+  </component>
+</project>
