@@ -1,0 +1,2 @@
+# Order Management
+Developing an Order Management application for warehouse order processing, utilizing a MySql relational database to store product, customer, and order information. The application adheres to a layered architecture, comprising Model Classes for data representation, Business Logic Classes for application logic, Presentation Classes for GUI, and Data Access Classes for database functionality.
